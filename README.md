@@ -16,7 +16,7 @@ Download the files from the repository and install.
 
 # Usage
 
-Link to view: [Coding Quiz](https://mariamdawood.github.io/Work-Day-Scheduler/)
+Link to view: [Work Day Scheduler](https://mariamdawood.github.io/Work-Day-Scheduler/)
 
 Screenshot of website:
 ![Coding Quiz](./assets/images/overview.png)
